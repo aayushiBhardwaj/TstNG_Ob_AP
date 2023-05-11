@@ -1,0 +1,176 @@
+13:47:20.252 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:47:20.262 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:48:05.234 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/r8yz1dudoqoq3izjtzf6jek8qnq6uoi9echbchk9 to view build report, insights, and many more debugging information all at one place!
+
+11:09:29.107 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:09:29.119 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:10:15.850 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/alb7ugdmbipsp4oyktkmgbfgq3xhpg3uqaa9ubjn to view build report, insights, and many more debugging information all at one place!
+
+11:29:41.019 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:29:41.030 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:30:25.521 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/3qd2lst3yaajds1gemflurl7d6z4uwe8itiqbezo to view build report, insights, and many more debugging information all at one place!
+
+11:43:59.231 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:43:59.243 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:44:45.168 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vsxkqf5kow5p72vra9gonvurw4hrysiol5gz3tx0 to view build report, insights, and many more debugging information all at one place!
+
+12:51:42.311 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:51:42.322 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:52:26.796 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/1ho9spufm1s2ub4h5jehxe9uadpldbd07c53f1t8 to view build report, insights, and many more debugging information all at one place!
+
+12:54:02.678 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:54:02.692 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:54:11.577 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/vs0nsul6c7kbqkrqbgokbfjiazyc1vpywh1stvbx to view build report, insights, and many more debugging information all at one place!
+
+13:24:42.820 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:24:42.831 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:25:25.375 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ah1mctacjduusmy8jdfp8xwwr9xrljxkc52kka95 to view build report, insights, and many more debugging information all at one place!
+
+15:34:00.495 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:34:00.507 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:34:57.349 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/drixroe7d17cskufyin46a5mgl2ycmadxclqjfxf to view build report, insights, and many more debugging information all at one place!
+
+17:57:54.054 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:57:54.066 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+17:58:43.602 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/4a77m4v6gqn41qwmybzs2glh7bhs0x1zfh4mljjs to view build report, insights, and many more debugging information all at one place!
+
+18:46:31.577 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:46:31.588 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:47:09.356 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/yjm2mung0t4vmccysfsh5ucywowpvjtwrclfdruu to view build report, insights, and many more debugging information all at one place!
+
+18:47:39.361 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:47:39.371 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:48:18.317 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pv7ghw3u4ucyjhxutgkbvg9kjfwungkgyusdlm2c to view build report, insights, and many more debugging information all at one place!
+
+18:55:41.099 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:55:41.119 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:55:46.567 [FirstTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gynta8g3v5svwhmf7rce9knhc7dghzsrqrdgp6jo to view build report, insights, and many more debugging information all at one place!
+
+18:58:02.503 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:58:02.514 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:58:37.248 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:58:37.259 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:58:42.778 [FirstTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/73pcl8u1ihgfk68wtksap8hetciai6429ntzsavo to view build report, insights, and many more debugging information all at one place!
+
+18:59:22.053 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:59:22.064 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:59:27.682 [FirstTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zsncr1tuuehc6sfcsussxciqjadb1t8etmkb1gv0 to view build report, insights, and many more debugging information all at one place!
+
+18:59:54.864 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:59:54.874 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:01:12.028 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hzfawwhiuyk9pkohweirbkb5itrxitaa98qnic3i to view build report, insights, and many more debugging information all at one place!
+
+19:02:22.816 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:02:22.827 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:03:05.421 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/9wpwvvs8iyycxwuwho9hhcqhy9rgctzyeko6eyux to view build report, insights, and many more debugging information all at one place!
+
+19:04:01.265 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:04:01.276 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:04:41.182 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fjqztodx5fwiyh9o3cxznik3vdkgsearrmyssebr to view build report, insights, and many more debugging information all at one place!
+
+19:07:17.716 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:07:17.731 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:07:54.814 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ubazd8ztwgnigm0qxodsbgjkdzdv2btruyransjh to view build report, insights, and many more debugging information all at one place!
+
+19:09:07.460 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:09:07.471 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:09:43.788 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/c13cfcltqyuqaqbv7qcoetv3sgfxct9jculbg57r to view build report, insights, and many more debugging information all at one place!
+
+19:11:10.008 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:11:10.021 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:11:46.672 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ixmug0bsmwcaxd1rfascde6q6wfzuau2zpe73zvc to view build report, insights, and many more debugging information all at one place!
+
+19:13:45.803 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:13:45.813 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:14:22.825 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/icfmoynaxayfgk1mt0owdpqys3ndtbej0p66badn to view build report, insights, and many more debugging information all at one place!
+
+19:16:12.549 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:16:12.559 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:16:50.702 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/g5gqtzcj92hhrprj9emfopvkgtmeefdhnjgc1egl to view build report, insights, and many more debugging information all at one place!
+
+19:18:57.287 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:18:57.298 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:20:41.713 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:20:41.724 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:21:18.432 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/6pyi22msy11ivuiljmayfqzuxej2pgkkmfpgkjf9 to view build report, insights, and many more debugging information all at one place!
+
+19:25:40.070 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:25:40.081 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:26:36.323 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ofmxmgmobbjkhjmaxi6ikzm5nxawjiishroce6tc to view build report, insights, and many more debugging information all at one place!
+
+19:27:30.184 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:27:30.198 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:28:11.995 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/f1wu3ljx6pnvd1xd6awfp8kozfc8xtv9iruerqkd to view build report, insights, and many more debugging information all at one place!
+
+19:30:58.036 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:30:58.047 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:31:36.767 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/i42mn5qhm31rus8rlwkjjy9gn6qft73zjjowtyfj to view build report, insights, and many more debugging information all at one place!
+
+19:32:02.584 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:32:02.595 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:32:36.554 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jnvtystk3nnrlv6msht80spo55jrlmj6xdm8qzj0 to view build report, insights, and many more debugging information all at one place!
+
+19:34:10.565 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:34:10.576 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:34:45.566 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ez5aykroxou5uyq5ekiy7a8o7kuxkrqkqdbspe0w to view build report, insights, and many more debugging information all at one place!
+
+19:35:25.949 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:35:25.960 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:35:31.467 [FirstTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/sjmncnkck3czifgtkrxk4yvppwcfd5rawlq5bdxh to view build report, insights, and many more debugging information all at one place!
+
+19:37:22.035 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:37:22.046 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:37:27.712 [FirstTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gkpz54cbpnbv609tiryf0s9liwhobj60nzavqhac to view build report, insights, and many more debugging information all at one place!
+
+19:38:06.450 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:38:06.461 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:40:27.845 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:40:27.859 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:40:56.160 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:40:56.174 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:41:01.403 [FirstTest@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/l42gzy6nfwldbqykzbobjkfo2j4xicnli5lnyevu to view build report, insights, and many more debugging information all at one place!
+
+20:35:06.842 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:35:06.855 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+20:35:53.910 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kpbi5y3r2yr0kzpyguprpkmmc3khtc7anwa9n5cs to view build report, insights, and many more debugging information all at one place!
+
+15:05:30.489 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:05:30.492 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:06:16.690 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/klyr9fsmdpigo5lvbtykxxbcsqyz2ojf69dvxpql to view build report, insights, and many more debugging information all at one place!
+
+15:09:26.149 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:09:26.152 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:10:14.486 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xcfeqpnfw1ohzjt57eaj5cdfue4pnhfmhxjbmiek to view build report, insights, and many more debugging information all at one place!
+
+16:42:36.536 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:42:36.540 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:42:44.858 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+16:43:35.550 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:43:35.553 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:43:38.990 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+16:44:08.298 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:44:08.302 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:44:11.874 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+16:44:51.819 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:44:51.822 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:44:55.551 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+16:46:25.373 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:46:25.378 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:47:08.733 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/o5dqwqxcwi8yw9ajb15x9nxjnwcxhtrdacukqbrv to view build report, insights, and many more debugging information all at one place!
+
+16:49:03.273 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:49:03.277 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+16:49:55.562 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/l26jz5awdzx579mxneep60swn2pvmnsuv7kw0jgh to view build report, insights, and many more debugging information all at one place!
+
+14:18:14.526 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:18:14.536 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+14:18:59.957 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zfhvbnh42utuljkloqgvw1nvznz6hjzgmdsfmvmk to view build report, insights, and many more debugging information all at one place!
+
+15:07:16.605 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:07:16.615 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:08:05.703 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wkab5395c4nki81solcfurbc3trxaemfuyz0nbtj to view build report, insights, and many more debugging information all at one place!
+
+15:12:42.352 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:12:42.364 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:13:32.233 [tearDown@null] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/6jyobyur5ekbtuylhewqy4uxytsobqzb5pwyngay to view build report, insights, and many more debugging information all at one place!
+

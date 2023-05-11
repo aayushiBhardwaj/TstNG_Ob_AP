@@ -1,0 +1,7 @@
+userName: USERNAME
+accessKey: ACCESKEY
+buildName: "BUILDNAME TO IDENTIFY IN OB"
+projectName: "PROJECTNAME TO IDENTFIY IN OB"
+framework: testng
+browserstackAutomation: false
+testObservability: true
